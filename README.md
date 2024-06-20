@@ -1,6 +1,6 @@
 # Cleaner for Xcode
 
-This is the new `SwiftUI` version of my original `react-native-macos` powered [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner)
+This is the new `SwiftUI` version of my original `react-native-macos` powered [XcodeCleaner](https://github.com/huymd/CleanCacheXcode)
 
 ----
 
@@ -18,7 +18,7 @@ This app helps you to make your Xcode faster by removing unwanted and deprecated
 Cleaner for Xcode is available on Mac App Store. You can also build it by yourself, please refer to `Build` section.
 
 [![Download on Mac App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/white/en-US "Download on Mac App Store")
-](https://itunes.apple.com/app/cleaner-for-xcode/id1296084683)
+](https://apps.apple.com/app/clean-data-cache-for-xcode/id6504602349)
 
 
 ## Build
